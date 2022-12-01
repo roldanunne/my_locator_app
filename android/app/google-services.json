@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95957223055",
+    "project_id": "safe-here-app",
+    "storage_bucket": "safe-here-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95957223055:android:447fcdc1e7b46ed2b452fa",
+        "android_client_info": {
+          "package_name": "com.safehere.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95957223055-711rn3l3v92iokqkffldld9f6hm5hrsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTdEUJcDqo_iZ7gFmMozCo0fxKPVaVnSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95957223055-711rn3l3v92iokqkffldld9f6hm5hrsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.05 0 135 134.84">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-1" d="M130,11.09h-24.7V4a4,4,0,0,0-8,0v7.09H71.5V4a4,4,0,0,0-8,0v7.09H37.75V4a4,4,0,0,0-8,0v7.09H5.05a5,5,0,0,0-5,5.05V129.78a5.05,5.05,0,0,0,5.05,5.06H130a5.05,5.05,0,0,0,5.05-5.06V16.14A5,5,0,0,0,130,11.09Zm-100.2,8v7.83a4,4,0,0,0,8,0V19.09H63.5v7.83a4,4,0,0,0,8,0V19.09H97.25v7.83a4,4,0,1,0,8,0V19.09H127V36.58H8V19.09ZM8,126.84V44.58H127v82.26Z"></path>
+      <circle class="cls-1" cx="33.75" cy="67.34" r="8.43"></circle>
+      <circle class="cls-1" cx="67.01" cy="67.34" r="8.43"></circle>
+      <circle class="cls-1" cx="101.25" cy="67.34" r="8.43"></circle>
+      <circle class="cls-1" cx="33.75" cy="101.09" r="8.43"></circle>
+      <circle class="cls-1" cx="67.01" cy="101.09" r="8.43"></circle>
+      <circle class="cls-1" cx="101.25" cy="101.09" r="8.43"></circle>
+    </g>
+  </g>
+</svg>
